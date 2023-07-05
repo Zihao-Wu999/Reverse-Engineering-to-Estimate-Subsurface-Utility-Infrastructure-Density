@@ -19,6 +19,8 @@ https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
 Lion data:
 https://www.nyc.gov/site/planning/data-maps/open-data/dwn-lion.page
 
+Subsurface excel: This is the data obtained from the final processing of LION.
+
 ### Final deliverables in ArcGIS Pro
 The final subsurface density map is accessed by ArcGIS Pro and the final deliverables are stored in file type ppkx in ArcGIS Pro.
 
