@@ -13,7 +13,7 @@ Debra Leafer, Project Faculty Mentor, New York University
 NYC 3D Model:
 https://www.nyc.gov/site/planning/data-maps/open-data/dwn-nyc-3d-model-download.page
 
-Plutto data:
+Pluto data:
 https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
 
 Lion data:
