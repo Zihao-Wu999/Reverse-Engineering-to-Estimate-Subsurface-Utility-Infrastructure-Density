@@ -2,7 +2,7 @@
 Reverse Engineering to Estimate Subsurface Utility Infrastructure Density for Financing Smart City Infrastructure
 
 ### Project Website
-https://wuzihao19980914.wixsite.com/mysite](https://zihao-wu999.github.io/reverse-engineering/
+https://zihao-wu999.github.io/reverse-engineering/
 
 ### Project description
 This capstone developed a methodology to estimate subsurface utility infrastructure density (3D volumetric approach) within NYC from NYC DCP surface density maps and NYC DOT street geometry data for public right of way area calculations (and possibly estimating subsurface densities in Westchester and Nassau Counties for comparison purposes in a similar manner), to permit a subsequent estimation of a utility pricing gap within NYC to support development of revenue sources to finance utilidors. 
